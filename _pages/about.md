@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-<img src="/images/yunan.png" alt="Yunan Hu photo" width="260" style="border-radius: 12px; float: right; margin-left: 25px; margin-bottom: 10px;">
+<img src="/images/yunan.jpg" alt="Yunan Hu photo" width="260" style="border-radius: 12px; float: right; margin-left: 25px; margin-bottom: 10px;">
 
 # Hi, I’m Yunan! 👋
 
