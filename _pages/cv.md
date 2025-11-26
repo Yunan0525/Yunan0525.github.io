@@ -33,9 +33,6 @@ Email: [yunan@ad.unc.edu](mailto:yunan@ad.unc.edu)
 ## **3. Bibliography and Scholarly Products**
 
 ### **Peer-reviewed Publications**  
-**Career Total = 9**  
-**Google Scholar h-index = 6**  
-**Google Scholar citations = 208**
 
 1. Aljumaah MR, Roach J, **Hu Y**, Gunstad J, Azcarate-Peril MA. Microbial dipeptidyl peptidases of the S9B family as host-microbe isozymes. *Sci Adv.* 2025;11(14):eads5721. doi:10.1126/sciadv.ads5721.
 
@@ -49,7 +46,7 @@ Email: [yunan@ad.unc.edu](mailto:yunan@ad.unc.edu)
 
 6. Kang J, **Hu Y**, Ding Z, Ye L, Li H, Cheng J, Fan L, Zhao H, Han B, Zheng X. Shifts in microbial community diversity from pretreatment to saccharification in Baijiu. *Front Microbiol.* 2021;12:705967.
 
-7. **Hu Y**, Huang X, Yang B, Zhang X, Han Y, Chen X-X, Han B-Z. Microbial community and metabolic profile of three light-flavor Daqu types. *Food Bioscience.* 2021;44:101395.
+7. **Hu Y**, Huang X, Yang B, Zhang X, Han Y, Chen X-X, Han B-Z. Microbial community and metabolic profile of three light-flavor Daqu types. *Food Bioscience.* 2021;44:101395.[https://doi.org/10.1016/j.fbio.2021.101395]
 
 8. **胡雨楠**, 张钟晓, 陈小雪, 薛岩松, 韩北忠. 发酵时间对白酒二茬基酒风味影响. *中国酿造.* 2021;40(9):165-172.
 
