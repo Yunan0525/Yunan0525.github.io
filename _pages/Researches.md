@@ -41,8 +41,8 @@ author_profile: true
 }
 .project-img {
   width: 100%;
-  max-width: 650px;
-  border-radius: 12px;
+  max-width: 300px;
+  border-radius: 8px;
   margin-top: 15px;
   margin-bottom: 20px;
   box-shadow: 0 2px 8px rgba(0,0,0,0.12);
@@ -63,11 +63,11 @@ author_profile: true
   <div class="project-title">🦠 Rationally Designed Consortia (RDC) to Prevent *C. difficile* Infection</div>
 
   <p>
-  The gut microbiome is a competitive ecosystem where timing, nutrient availability, and community structure shape colonization success. Our group engineered a <b>Rationally Designed Consortium (RDC)</b>—a defined, sequenced, and highly cohesive microbial community developed in prebiotic-fed bioreactors.
+  The gut microbiome is a competitive ecosystem where timing, nutrient availability, and community structure shape colonization success. Our group engineered a Rationally Designed Consortium (RDC)—a defined, sequenced, and highly cohesive microbial community developed in prebiotic-fed bioreactors.
   </p>
 
   <p>
-  Aging disrupts intestinal barrier integrity and weakens colonization resistance, increasing susceptibility to <i>C. difficile</i> infection (CDI). We found that <b>GOS and hGOS create nutritional niches</b> that enhance RDC persistence while suppressing <i>C. difficile</i> growth. In mouse models, GOS + RDC significantly reduced pathogen burden and improved barrier function.
+  Aging disrupts intestinal barrier integrity and weakens colonization resistance, increasing susceptibility to <i>C. difficile</i> infection (CDI). We found that GOS and hGOS create nutritional niches that enhance RDC persistence while suppressing <i>C. difficile</i> growth. In mouse models, GOS + RDC significantly reduced pathogen burden.
   </p>
 
 
@@ -91,7 +91,7 @@ author_profile: true
   </p>
 
   <p>
-  <b>Lp dominated co-cultures</b> with fast growth rates in GOS and hGOS, while LGG and AMC143 grew more slowly. hGOS uniquely induced <b>nagB upregulation</b> in LGG, improving tolerance to lysozyme and mechanical stress. 
+  Lp dominated co-cultures with fast growth rates in GOS and hGOS, while LGG and AMC143 grew more slowly. hGOS uniquely induced nagB upregulation in LGG, improving tolerance to lysozyme and mechanical stress. 
   These results reveal carbohydrate-specific competitive advantages and stress responses.
   </p>
 
@@ -111,7 +111,7 @@ author_profile: true
   </p>
 
   <p>
-  We study how GOS and hGOS regulate <b>Muc2 production</b>, mucus architecture, and O-glycan profiles using both in vitro (HT29-MTX, primary monolayers) and in vivo mouse models. 
+  We study how GOS and hGOS regulate Muc2 production, mucus architecture, and O-glycan profiles using both in vitro (HT29-MTX, primary monolayers) and in vivo mouse models. 
   Our work aims to determine how prebiotics enhance barrier integrity and facilitate beneficial bacteria colonization.
   </p>
 
@@ -119,7 +119,7 @@ author_profile: true
 
   - Quantification of mucus secretion  
   - Changes in O-glycan motifs supporting beneficial adhesion  
-  - Mucus–microbiota spatial organization (histology + FISH)
-    
+  - Mucus–microbiota spatial organization (histology + FISH) 
+    </div>
   <img src="/images/research/study3.jpg" class="project-img" alt="Goblet cells">  
 </div>
