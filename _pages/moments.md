@@ -52,8 +52,8 @@ Here I share small moments from my life outside of academia.
 
 .moments-img {
   width: 100%;
-  max-width: 500px;
-  border-radius: 10px;
+  max-width: 300px;
+  border-radius: 8px;
   margin-top: 15px;
   margin-bottom: 15px;
 }
