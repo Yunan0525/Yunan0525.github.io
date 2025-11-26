@@ -84,11 +84,9 @@ Here I share small moments from my life outside of academia.
   <div class="moments-title">🐱 Cats</div>
   <p>A collection of my favorite cat moments — cuddles, chaos, and cuteness.</p>
 
-  <!-- Example image -->
-  <!-- 
 <img src="/images/moments/cat1.jpg" class="moments-img">
 <div class="photo-caption">My cats Rice (black) and Noodle (Yellow) 🐾</div>
----
+
 <div class="photo-card">
   <img src="/images/moments/cat2.jpg">
   <div class="caption">My cats Rice (black) and Noodle (Yellow)</div>
@@ -98,16 +96,21 @@ Here I share small moments from my life outside of academia.
   <div class="moments-title">🍞 Baking</div>
   <p>My experiments in the kitchen — breads, pastries, and sweet treats.</p>
 
-  <!-- Example image -->
-  <!-- <img src="/images/moments/baking1.jpg" class="moments-img"> -->
+
+<img src="/images/moments/bake1.jpg" class="moments-img"> 
 </div>
 
----
+<img src="/images/moments/bake2.jpg" class="moments-img"> 
+</div>
+
+
+<img src="/images/moments/bake3.jpg" class="moments-img"> 
+</div>
 
 <div id="drawing" class="moments-section">
   <div class="moments-title">🎨 Drawing</div>
   <p>Sketches, watercolor pieces, and small creative projects.</p>
 
-  <!-- Example image -->
-  <!-- <img src="/images/moments/drawing1.jpg" class="moments-img"> -->
+
+ <img src="/images/moments/art1.jpg" class="moments-img">
 </div>
