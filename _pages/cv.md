@@ -34,23 +34,23 @@ Email: [yunan@ad.unc.edu](mailto:yunan@ad.unc.edu)
 
 ### **Peer-reviewed Publications**  
 
-1. Aljumaah MR, Roach J, **Hu Y**, Gunstad J, Azcarate-Peril MA. Microbial dipeptidyl peptidases of the S9B family as host-microbe isozymes. *Sci Adv.* 2025;11(14):eads5721. doi:10.1126/sciadv.ads5721.
+1. Aljumaah MR, Roach J, **Hu Y**, Gunstad J, Azcarate-Peril MA. Microbial dipeptidyl peptidases of the S9B family as host-microbe isozymes. *Sci Adv.* 2025;11(14):eads5721. (https://www.science.org/doi/full/10.1126/sciadv.ads5721)
 
-2. **Hu Y**, Aljumaah MR, Azcarate-Peril MA. Galacto-Oligosaccharides and the Elderly Gut: Implications for Immune Restoration and Health. *Advances in Nutrition.* 2024;15(8):100263. doi:10.1016/j.advnut.2024.100263.
+2. **Hu Y**, Aljumaah MR, Azcarate-Peril MA. Galacto-Oligosaccharides and the Elderly Gut: Implications for Immune Restoration and Health. *Advances in Nutrition.* 2024;15(8):100263. (https://doi.org/10.1016/j.advnut.2024.100263)
 
-3. Kang J, Li R,**Hu Y**, Huang X, Chen X-X, Han B-Z. Microbial interactions in mixed-species biofilms on surfaces of Baijiu brewing environments. *Food Research International.* 2024;191:114698.
+3. Kang J, Li R,**Hu Y**, Huang X, Chen X-X, Han B-Z. Microbial interactions in mixed-species biofilms on surfaces of Baijiu brewing environments. *Food Research International.* 2024;191:114698. (https://doi.org/10.1016/j.foodres.2024.114698)
 
 4. Tian S, **Hu Y**, Chen X, Liu C, Xue Y, Han B. Green synthesis of silver nanoparticles using sodium alginate and tannic acid: characterization and anti–S. aureus activity. *Int J Biol Macromol.* 2022;195:515-522. (https://doi.org/10.1016/j.ijbiomac.2021.12.031)
 
-5. Kang J, **Hu Y**, Jia L, Zhang M, Zhang Z, Huang X, Chen X, Han B-Z. Response of microbial community assembly to abiotic factors during Baijiu fermentation. *Food Research International.* 2022;162:111915.
+5. Kang J, **Hu Y**, Jia L, Zhang M, Zhang Z, Huang X, Chen X, Han B-Z. Response of microbial community assembly to abiotic factors during Baijiu fermentation. *Food Research International.* 2022;162:111915. (https://doi.org/10.1016/j.foodres.2022.111915)
 
-6. Kang J, **Hu Y**, Ding Z, Ye L, Li H, Cheng J, Fan L, Zhao H, Han B, Zheng X. Shifts in microbial community diversity from pretreatment to saccharification in Baijiu. *Front Microbiol.* 2021;12:705967.
+6. Kang J, **Hu Y**, Ding Z, Ye L, Li H, Cheng J, Fan L, Zhao H, Han B, Zheng X. Shifts in microbial community diversity from pretreatment to saccharification in Baijiu. *Front Microbiol.* 2021;12:705967. (https://doi.org/10.3389/fmicb.2021.705967)
 
 7. **Hu Y**, Huang X, Yang B, Zhang X, Han Y, Chen X-X, Han B-Z. Microbial community and metabolic profile of three light-flavor Daqu types. *Food Bioscience.* 2021;44:101395.(https://doi.org/10.1016/j.fbio.2021.101395)
 
 8. **胡雨楠**, 张钟晓, 陈小雪, 薛岩松, 韩北忠. 发酵时间对白酒二茬基酒风味影响. *中国酿造.* 2021;40(9):165-172.
 
-9. Chen X, **Hu Y**, Tian S, Han B. Interaction between *S. aureus* and raw-meat-environment *K. oxytoca* in dual-species biofilms. *Microorganisms.* 2021;9.
+9. Chen X, **Hu Y**, Tian S, Han B. Interaction between *S. aureus* and raw-meat-environment *K. oxytoca* in dual-species biofilms. *Microorganisms.* 2021;9. (https://doi.org/10.3390/microorganisms9040672)
 
 ---
 
@@ -62,7 +62,6 @@ Email: [yunan@ad.unc.edu](mailto:yunan@ad.unc.edu)
 ---
 
 ## **4. Posters and Conference Proceedings**  
-**Career Total = 7**
 
 1. **Gordon Research Conference (GRC), 2025 (Oral + Poster).**  
    *Pure prebiotics enable the persistence of probiotics and enhance their beneficial effects.*  
