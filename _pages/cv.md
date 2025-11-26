@@ -67,29 +67,29 @@ Email: [yunan@ad.unc.edu](mailto:yunan@ad.unc.edu)
    *Pure prebiotics enable the persistence of probiotics and enhance their beneficial effects.*  
    Yunan Hu, Madison Moore, Jeff Roach, Jeena James, Jason Arnold, Rita Tamayo, José M. Bruno-Bárcena, M. Andrea Azcarate-Peril.
 
-2. **NC-ASM, 2024 (Oral).**  
+2. **North Carolina Branch of the American Society for Microbiology (NC-ASM), 2024 (Oral).**  
    *Galacto-oligosaccharides Enhance Intestinal Barrier Function.*  
    Yunan Hu.
 
 3. **American Society for Nutrition (ASN), 2024 (Poster).**  
-   *Prebiotics + consortium improve C. difficile infection outcomes in mice.*  
-   James, J.; **Hu, Y**.; et al.
+   *The Beneficial Effects of a Combination of Prebiotics and Bacterial Consortium on Clostridioides difficile Infection in a Mouse Model. 2024, Current Developments in Nutrition.*  
+   Jeena M James, **Yunan Hu**, Mashael Aljumaah, Esmat Rousta, Nivedita Pareek, Jeff Roach, Jason Arnold, Rita Tamayo, José Bruno-Bárcena, Andrea Azcarate-Peril.
 
-4. **ASN, 2023 (Poster).**  
+4. **American Society for Nutrition (ASN), 2023 (Poster).**  
    *Immunomodulatory Effects of Galactooligosaccharides.*  
-   **Yunan Hu**, Jason Arnold, et al.
+   **Yunan Hu**, Jason Arnold, Johanna Smeekens, Michael Kulis, Ellyce San Pedro, Scott Magness, Andrea Azcarate-Peril
 
-5. **ISAPP, 2023 (Poster).**  
+5. **International Scientific Association for Probiotics and Prebiotics (ISAPP), 2023 (Poster).**  
    *Immunomodulatory Effect of Galacto-oligosaccharide on Lgals-1 Expression.*  
-   **Yunan Hu**, Arnold J., et al.
+   **Yunan Hu**, Arnold J., Johanna Smeekens, Michael Kulis, Ellyce San Pedro, Scott Magness, Andrea Azcarate-Peril
 
 6. **NC Microbiome Consortium Symposium, 2023 (Poster).**  
    *GOS enhances intestinal barrier function.*  
-   **Yunan Hu**, et al.
+   **Yunan Hu**, Jason W. Arnold, Rebecca Zasloff, Anika Rueppell, Scott T. Magness, José M. Bruno-Bárcena, M. Andrea Azcarate-Peril
 
 7. **NORC Student Research Symposium, 2022 (Poster).**  
-   *Mechanism of Galectin-1 induction by GOS.*  
-   **Yunan Hu**, et al.
+   *Mechanism of Galectin-1 induction by Galactooligosaccharides.*  
+   **Yunan Hu**,Jason Arnold, Johanna Smeekens, Michael Kulis, Ellyce San Pedro, Scott Magness, Andrea Azcarate-Peril
 
 ---
 
@@ -99,6 +99,7 @@ Email: [yunan@ad.unc.edu](mailto:yunan@ad.unc.edu)
 
 | Student | Degree / Activity | Dates | Currently at |
 |---------|-------------------|--------|----------------|
+| **Angela Molina** | Nutrition | August 2025 - | UNC-Chapeil Hill|
 | **Jin Ho Kim** | Biology | May 2025– | UNC-Chapel Hill |
 | **Yoo Rim Lee** | Nutrition (Honors Thesis) | Mar 2025– | UNC-Chapel Hill |
 | **Weston Matthews** | Biology | Aug 2024–May 2025 | UNC-Chapel Hill |
