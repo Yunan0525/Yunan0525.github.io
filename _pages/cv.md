@@ -8,12 +8,6 @@ redirect_from:
 ---
 [Click here to download my CV (PDF)](/Curriculum Vitae.pdf)
 
----
-layout: archive
-title: "Curriculum Vitae"
-permalink: /cv/
-author_profile: true
----
 
 # **Yunan Hu, M.S.**  
 Email: [yunan@ad.unc.edu](mailto:yunan@ad.unc.edu)
