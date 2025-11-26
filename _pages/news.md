@@ -47,7 +47,7 @@ author_profile: true
 
   <br><br>
 
-  <img src="/images/news/qualify1.jpg" class="news-img" alt="Qualifying Exam Celebration Photo 1">
+  <img src="/images/news/qualify1.jpg" class="news-img" alt="During exam presenting my thesis work">
 </div>
 
 
