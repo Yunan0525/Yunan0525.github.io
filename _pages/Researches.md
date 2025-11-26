@@ -52,15 +52,15 @@ author_profile: true
 # Research Projects
 
 <div id="research-nav">
-  <a href="#rdc">Rationally Designed Consortia (RDC) Against *C. difficile*</a>
-  <a href="#lacto">Prebiotic-Driven Dynamics of *Lactobacillus*</a>
+  <a href="#rdc">Rationally Designed Consortia (RDC) Against C. difficile</a>
+  <a href="#lacto">Prebiotic-Driven Dynamics of Lactobacillus</a>
   <a href="#mucus">Prebiotics & Intestinal Mucus Remodeling</a>
 </div>
 
 ---
 
 <div id="rdc" class="project-section">
-  <div class="project-title">🦠 Rationally Designed Consortia (RDC) to Prevent *C. difficile* Infection</div>
+  <div class="project-title">🦠 Rationally Designed Consortia (RDC) to Prevent C. difficile Infection</div>
 
   <p>
   The gut microbiome is a competitive ecosystem where timing, nutrient availability, and community structure shape colonization success. Our group engineered a Rationally Designed Consortium (RDC)—a defined, sequenced, and highly cohesive microbial community developed in prebiotic-fed bioreactors.
