@@ -85,10 +85,14 @@ Here I share small moments from my life outside of academia.
   <p>A collection of my favorite cat moments — cuddles, chaos, and cuteness.</p>
 
   <!-- Example image -->
-  <!-- <img src="/images/moments/cat1.jpg" class="moments-img"> -->
-</div>
-
+  <!-- 
+<img src="/images/moments/cat1.jpg" class="moments-img">
+<div class="photo-caption">My cats Rice (black) and Noodle (Yellow) 🐾</div>
 ---
+<div class="photo-card">
+  <img src="/images/moments/cat2.jpg">
+  <div class="caption">My cats Rice (black) and Noodle (Yellow)</div>
+</div>
 
 <div id="baking" class="moments-section">
   <div class="moments-title">🍞 Baking</div>
