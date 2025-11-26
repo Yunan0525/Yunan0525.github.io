@@ -87,8 +87,10 @@ Here I share small moments from my life outside of academia.
 <img src="/images/moments/cat1.jpg" class="moments-img">
 <div class="photo-caption">My cats Rice (black) and Noodle (Yellow) 🐾</div>
 
-  <img src="/images/moments/cat2.jpg">
-  <div class="caption">My cats Rice (black) and Noodle (Yellow)</div>
+<img src="/images/moments/cat2.jpg" class="moments-img">
+<div class="photo-caption">My cats Rice (black) and Noodle (Yellow) 🐾</div>
+
+
 
 <div id="baking" class="moments-section">
   <div class="moments-title">🍞 Baking</div>
