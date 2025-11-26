@@ -1,0 +1,7 @@
+---
+layout: archive
+title: "Moments"
+permalink: /Moments/
+author_profile: true
+---
+Welcome to my personal space — small stories, reflections, and things I enjoy outside of research (Cats!).
