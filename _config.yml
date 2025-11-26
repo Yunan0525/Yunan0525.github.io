@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
-  avatar: "images/profile.JPG"    # 你等会可以上传自己的头像
+  avatar: "images/yunan.png"    # 你等会可以上传自己的头像
   name: "Yunan Hu"
   pronouns: 
   bio: "PhD candidate in Microbiology & Immunology, UNC-CH"
