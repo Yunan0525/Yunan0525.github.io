@@ -105,7 +105,7 @@ Here I share small moments from my life outside of academia.
 
 
 <img src="/images/moments/bake3.jpg" class="moments-img"> 
-</div>
+
 
 <div id="drawing" class="moments-section">
   <div class="moments-title">🎨 Drawing</div>
