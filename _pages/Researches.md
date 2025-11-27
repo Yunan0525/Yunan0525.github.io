@@ -39,14 +39,6 @@ author_profile: true
   font-weight: 700;
   margin-bottom: 10px;
 }
-.project-img {
-  width: 100%;
-  max-width: 300px;
-  border-radius: 8px;
-  margin-top: 15px;
-  margin-bottom: 20px;
-  box-shadow: 0 2px 8px rgba(0,0,0,0.12);
-}
  .image-card {
   border: 1px solid #e0e0e0;
   border-radius: 12px;
@@ -58,8 +50,8 @@ author_profile: true
 }
 
 .image-card img {
-  max-width: 300px;  /* smaller size (you can try 300–400px) */
-  width: 80%;
+  max-width: 200px;  /* smaller size (you can try 300–400px) */
+  width:50%;
   border-radius: 8px;
   margin-top: 5px;
 }
