@@ -23,6 +23,7 @@ repository               : "Yunan0525/yunan0525.github.io"
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
+  avatar: "images/bio.jpg"
   pronouns: 
   bio: "PhD candidate in Microbiology & Immunology, UNC-CH"
   location: "Chapel Hill, NC"
