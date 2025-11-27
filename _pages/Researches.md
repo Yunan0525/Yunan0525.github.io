@@ -47,6 +47,25 @@ author_profile: true
   margin-bottom: 20px;
   box-shadow: 0 2px 8px rgba(0,0,0,0.12);
 }
+  image-card {
+  border: 1px solid #e0e0e0;
+  border-radius: 12px;
+  padding: 10px 15px;
+  margin-bottom: 25px;
+  background: #fafafa;
+  text-align: center;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+}
+.image-card img {
+  max-width: 100%;
+  border-radius: 8px;
+}
+.image-card .caption {
+  margin-top: 10px;
+  font-size: 0.9rem;
+  color: #666;
+  font-style: italic;
+}
 </style>
 
 # Research Projects
@@ -70,10 +89,11 @@ author_profile: true
   Aging disrupts intestinal barrier integrity and weakens colonization resistance, increasing susceptibility to <i>C. difficile</i> infection (CDI). We found that GOS and hGOS create nutritional niches that enhance RDC persistence while suppressing <i>C. difficile</i> growth. In mouse models, GOS + RDC significantly reduced pathogen burden.
   </p>
 
+<div class="image-card">
+  <img src="/images/research/study1.jpg" alt="Hypothesis Figure">
+  <div class="caption">Hypothesis of how prebiotics combined with RDC can prevent CDI</div>
+</div>
 
-  <img src="/images/research/study1.jpg" class="project-img" alt="Hypothesis Figure">
-  <div style="font-size:0.9rem; color:#666; margin-top: -10px; text-align:center;">
-  Figure 1. Hypothesis of how prebiotics combined with RDC can prevent CDI.
 
   <p><b>Key goals:</b></p>
 
@@ -101,10 +121,11 @@ author_profile: true
 
   - Strain-specific metabolism influences fitness in co-culture  
   - These insights guide synbiotic design for targeted microbial modulation  
-</div>
-  <img src="/images/research/study2.jpg" class="project-img" alt="Study Design">
-   <div style="font-size:0.9rem; color:#666; margin-top: -10px; text-align:center;">
-  Figure 2. Study Design.
+
+ <div class="image-card">
+  <img src="/images/research/study2.jpg" alt="Study Design">
+  <div class="caption">Study Design</div>
+
 
 
 <div id="mucus" class="project-section">
@@ -124,7 +145,7 @@ author_profile: true
   - Quantification of mucus secretion
   - Changes in O-glycan motifs supporting beneficial adhesion
   - Mucus–microbiota spatial organization (histology + FISH) 
-    </div>
-  <img src="/images/research/study3.jpg" class="project-img" alt="Goblet cells">  
-   <div style="font-size:0.9rem; color:#666; margin-top: -10px; text-align:center;">
-  Figure 3. Goblet cells in HT29-MTX cell line.
+ <div class="image-card">
+  <img src="/images/research/study3.jpg" alt="Goblet cells">
+  <div class="caption">Goblet cells</div>
+
