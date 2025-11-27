@@ -38,7 +38,7 @@ Email: [yunan@ad.unc.edu](mailto:yunan@ad.unc.edu)
 
 2. **Hu Y**, Aljumaah MR, Azcarate-Peril MA. Galacto-Oligosaccharides and the Elderly Gut: Implications for Immune Restoration and Health. *Advances in Nutrition.* 2024;15(8):100263. [DOI:10.1016/j.advnut.2024.100263](https://doi.org/10.1016/j.advnut.2024.100263)
 
-3. Kang J, Li R,**Hu Y**, Huang X, Chen X-X, Han B-Z. Microbial interactions in mixed-species biofilms on surfaces of Baijiu brewing environments. *Food Research International.* 2024;191:114698. [DOI:10.1016/j.foodres.2024.114698](https://doi.org/10.1016/j.foodres.2024.114698)
+3. Kang J, Li R, **Hu Y**, Huang X, Chen X-X, Han B-Z. Microbial interactions in mixed-species biofilms on surfaces of Baijiu brewing environments. *Food Research International.* 2024;191:114698. [DOI:10.1016/j.foodres.2024.114698](https://doi.org/10.1016/j.foodres.2024.114698)
 
 4. Tian S, **Hu Y**, Chen X, Liu C, Xue Y, Han B. Green synthesis of silver nanoparticles using sodium alginate and tannic acid: characterization and anti–S. aureus activity. *Int J Biol Macromol.* 2022;195:515-522. [DOI:10.1016/j.ijbiomac.2021.12.031](https://doi.org/10.1016/j.ijbiomac.2021.12.031)
 
@@ -89,7 +89,7 @@ Email: [yunan@ad.unc.edu](mailto:yunan@ad.unc.edu)
 
 7. **NORC Student Research Symposium, 2022 (Poster).**  
    *Mechanism of Galectin-1 induction by Galactooligosaccharides.*  
-   **Yunan Hu**,Jason Arnold, Johanna Smeekens, Michael Kulis, Ellyce San Pedro, Scott Magness, Andrea Azcarate-Peril
+   **Yunan Hu**, Jason Arnold, Johanna Smeekens, Michael Kulis, Ellyce San Pedro, Scott Magness, Andrea Azcarate-Peril
 
 ---
 
