@@ -72,6 +72,8 @@ author_profile: true
 
 
   <img src="/images/research/study1.jpg" class="project-img" alt="Hypothesis Figure">
+  <div style="font-size:0.9rem; color:#666; margin-top: -10px; text-align:center;">
+  Figure 1. Hypothesis of how prebiotics combined with RDC can prevent CDI.
 
   <p><b>Key goals:</b></p>
 
@@ -101,7 +103,9 @@ author_profile: true
   - These insights guide <b>synbiotic design</b> for targeted microbial modulation  
 </div>
   <img src="/images/research/study2.jpg" class="project-img" alt="Study Design">
----
+   <div style="font-size:0.9rem; color:#666; margin-top: -10px; text-align:center;">
+  Figure 2. Study Design.
+
 
 <div id="mucus" class="project-section">
   <div class="project-title">🧫 How Prebiotics Remodel Intestinal Mucus</div>
@@ -122,4 +126,5 @@ author_profile: true
   - Mucus–microbiota spatial organization (histology + FISH) 
     </div>
   <img src="/images/research/study3.jpg" class="project-img" alt="Goblet cells">  
-</div>
+   <div style="font-size:0.9rem; color:#666; margin-top: -10px; text-align:center;">
+  Figure 3. Goblet cells in HT29-MTX cell line.
