@@ -8,8 +8,8 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-#site_theme               : "minimal-mistakes-jekyll" # Currently available options are "default", "air"
-remote_theme: "jekyll-theme-architect"
+site_theme               : "air" # Currently available options are "default", "air"
+#remote_theme: "jekyll-theme-architect"
 title: "Yunan Hu"
 name: "Yunan Hu (胡雨楠)"
 email: "yunan@ad.unc.edu"
@@ -25,7 +25,7 @@ repository               : "Yunan0525/yunan0525.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   avatar: "bioyunan.jpg"
-  name: "Yunan Hu, MS"
+  name: "Yunan Hu, MS."
   pronouns: "She/Her"
   bio: "PhD candidate in Microbiology & Immunology, UNC-CH"
   location: "Chapel Hill, NC"
