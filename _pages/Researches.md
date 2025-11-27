@@ -1,45 +1,58 @@
 ---
+---
 layout: archive
-title: " "
+title: "Research"
 permalink: /research/
 author_profile: true
 ---
 
 <style>
+/* RIGHT SIDE FLOATING NAV */
 #research-nav {
-  position: sticky;
-  top: 20px;
+  position: fixed;
+  top: 120px;            /* distance from top */
+  right: 20px;           /* distance from right edge */
+  width: 200px;          /* sidebar width */
   background: #ffffff;
-  padding: 10px 15px;
   border-radius: 10px;
-  box-shadow: 0 2px 6px rgba(0,0,0,0.08);
-  margin-bottom: 30px;
-  display: flex;
-  gap: 15px;
-  flex-wrap: wrap;
-  z-index: 10;
+  padding: 15px 12px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.10);
+  z-index: 20;
 }
+
 #research-nav a {
-  padding: 6px 12px;
-  background: #f0f0f0;
-  border-radius: 8px;
+  display: block;
+  margin-bottom: 10px;
+  padding: 8px 12px;
+  background: #f3f3f3;
+  border-radius: 6px;
   text-decoration: none;
   color: #333;
   font-weight: 500;
+  font-size: 0.95rem;
   transition: 0.2s;
 }
+
 #research-nav a:hover {
   background: #e0e0e0;
 }
+
+/* Push main content inward so it doesn't collide with sidebar */
+.research-container {
+  margin-right: 260px;   /* space for sidebar */
+}
+
 .project-section {
   margin-top: 45px;
 }
+
 .project-title {
   font-size: 1.5rem;
   font-weight: 700;
   margin-bottom: 10px;
 }
- .image-card {
+
+.image-card {
   border: 1px solid #e0e0e0;
   border-radius: 12px;
   padding: 10px 15px;
@@ -50,8 +63,8 @@ author_profile: true
 }
 
 .image-card img {
-  max-width: 200px;  /* smaller size (you can try 300–400px) */
-  width:50%;
+  max-width: 200px;   /* adjust if too small */
+  width: 50%;
   border-radius: 8px;
   margin-top: 5px;
 }
@@ -72,14 +85,13 @@ author_profile: true
   <a href="#mucus">Prebiotics & Intestinal Mucus Remodeling</a>
 </div>
 
----
+<div class="research-container">
 
 <div id="rdc" class="project-section">
   <div class="project-title">🦠 Rationally Designed Consortia (RDC) to Prevent C. difficile Infection</div>
 
   <p>
   The gut microbiome is a competitive ecosystem where timing, nutrient availability, and community structure shape colonization success. Our group engineered a Rationally Designed Consortium (RDC)—a defined, sequenced, and highly cohesive microbial community developed in prebiotic-fed bioreactors.
-  </p>
 
   <p>
   Aging disrupts intestinal barrier integrity and weakens colonization resistance, increasing susceptibility to <i>C. difficile</i> infection (CDI). We found that GOS and hGOS create nutritional niches that enhance RDC persistence while suppressing <i>C. difficile</i> growth. In mouse models, GOS + RDC significantly reduced pathogen burden.
@@ -144,4 +156,5 @@ author_profile: true
  <div class="image-card">
   <img src="/images/research/study3.jpg" alt="Goblet cells">
   <div class="caption">Goblet cells</div>
+ </div>
 
