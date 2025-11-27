@@ -94,18 +94,16 @@ author_profile: true
   Aging disrupts intestinal barrier integrity and weakens colonization resistance, increasing susceptibility to <i>C. difficile</i> infection (CDI). We found that GOS and hGOS create nutritional niches that enhance RDC persistence while suppressing <i>C. difficile</i> growth. In mouse models, GOS + RDC significantly reduced pathogen burden.
   </p>
 
-<div class="image-card">
-  <img src="/images/research/study1.jpg" alt="Hypothesis Figure">
-  <div class="caption">Hypothesis of how prebiotics combined with RDC can prevent CDI</div>
-
-
   <p><b>Key goals:</b></p>
 
   - Test synbiotic (GOS/hGOS + RDC) protection across age groups
   - Determine how prebiotics reshape microbial competition and nutrient use
   - Develop mechanistic foundations for next-generation synbiotics for CDI prevention  
 
-
+<div class="image-card">
+  <img src="/images/research/study1.jpg" alt="Hypothesis Figure">
+  <div class="caption">Hypothesis of how prebiotics combined with RDC can prevent CDI</div>
+</div>
 <div id="lacto" class="project-section" markdown="1">
   <div class="project-title">🧬 Prebiotic-Driven Dynamics of <i>Lactobacillus</i> Co-Cultures</div>
 
