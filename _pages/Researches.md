@@ -89,6 +89,7 @@ author_profile: true
 
   <p>
   The gut microbiome is a competitive ecosystem where timing, nutrient availability, and community structure shape colonization success. Our group engineered a Rationally Designed Consortium (RDC)—a defined, sequenced, and highly cohesive microbial community developed in prebiotic-fed bioreactors.
+  </p>
 
   <p>
   Aging disrupts intestinal barrier integrity and weakens colonization resistance, increasing susceptibility to <i>C. difficile</i> infection (CDI). We found that GOS and hGOS create nutritional niches that enhance RDC persistence while suppressing <i>C. difficile</i> growth. In mouse models, GOS + RDC significantly reduced pathogen burden.
@@ -98,7 +99,9 @@ author_profile: true
 
   - Test synbiotic (GOS/hGOS + RDC) protection across age groups
   - Determine how prebiotics reshape microbial competition and nutrient use
-  - Develop mechanistic foundations for next-generation synbiotics for CDI prevention  
+  - Develop mechanistic foundations for next-generation synbiotics for CDI prevention
+</div>
+
 
 <div class="image-card">
   <img src="/images/research/study1.jpg" alt="Hypothesis Figure">
