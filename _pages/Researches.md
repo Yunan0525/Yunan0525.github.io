@@ -84,7 +84,7 @@ author_profile: true
 
 <div class="research-container">
 
-<div id="rdc" class="project-section">
+<div id="rdc" class="project-section" markdown="1">
   <div class="project-title">🦠 Rationally Designed Consortia (RDC) to Prevent C. difficile Infection</div>
 
   <p>
@@ -107,7 +107,7 @@ author_profile: true
   - Develop mechanistic foundations for next-generation synbiotics for CDI prevention  
 
 
-<div id="lacto" class="project-section">
+<div id="lacto" class="project-section" markdown="1">
   <div class="project-title">🧬 Prebiotic-Driven Dynamics of <i>Lactobacillus</i> Co-Cultures</div>
 
   <p>
@@ -131,7 +131,7 @@ author_profile: true
  </div>
 
 
-<div id="mucus" class="project-section">
+<div id="mucus" class="project-section" markdown="1">
   <div class="project-title">🧫 How Prebiotics Remodel Intestinal Mucus</div>
 
   <p>
