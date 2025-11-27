@@ -29,7 +29,7 @@ author_profile: true
   margin-bottom: 12px;
 }
 .news-img {
-  width: 100%;
+  width: 60%;
   max-width: 500px;
   border-radius: 8px;
   margin-top: 10px;
