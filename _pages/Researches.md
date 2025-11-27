@@ -61,8 +61,8 @@ author_profile: true
 }
 
 .image-card img {
-  max-width: 200px;   /* adjust if too small */
-  width: 50%;
+  max-width: 250px;   /* adjust if too small */
+  width: 60%;
   border-radius: 8px;
   margin-top: 5px;
 }
@@ -106,9 +106,7 @@ author_profile: true
   - Test synbiotic (GOS/hGOS + RDC) protection across age groups  
   - Determine how prebiotics reshape microbial competition and nutrient use  
   - Develop mechanistic foundations for next-generation synbiotics for CDI prevention  
-</div>
 
----
 
 <div id="lacto" class="project-section">
   <div class="project-title">🧬 Prebiotic-Driven Dynamics of <i>Lactobacillus</i> Co-Cultures</div>
@@ -132,7 +130,7 @@ author_profile: true
   <img src="/images/research/study2.jpg" alt="Study Design">
   <div class="caption">Study Design</div>
  </div>
----
+
 
 <div id="mucus" class="project-section">
   <div class="project-title">🧫 How Prebiotics Remodel Intestinal Mucus</div>
