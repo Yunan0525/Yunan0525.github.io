@@ -24,7 +24,8 @@ repository               : "Yunan0525/yunan0525.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   avatar: "bioyunan.jpg"
-  pronouns: 
+  name: "Yunan Hu, MS"
+  pronouns: "She/Her"
   bio: "PhD candidate in Microbiology & Immunology, UNC-CH"
   location: "Chapel Hill, NC"
  # employer: ""
