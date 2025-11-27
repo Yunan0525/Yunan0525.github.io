@@ -102,7 +102,7 @@ Email: [yunan@ad.unc.edu](mailto:yunan@ad.unc.edu)
 | **Angela Molina** | Nutrition | August 2025 - | UNC-Chapeil Hill|
 | **Jin Ho Kim** | Biology | May 2025– | UNC-Chapel Hill |
 | **Yoo Rim Lee** | Nutrition (Honors Thesis) | Mar 2025– | UNC-Chapel Hill |
-| **Weston Matthews** | Biology | Aug 2024–May 2025 | UNC-Chapel Hill |
+| **Weston Matthews** | Biology | Aug 2024–May 2025 | Kernersville Eye Surgeons |
 | **Nehal Devpura** | Nutrition (Honors Thesis) | Feb 2023– | UNC-Chapel Hill |
 | **Rebecca Zasloff** | Biology (Honors Thesis) | Aug 2021–Jun 2022 | Duke & Harvard School of Public Health |
 
