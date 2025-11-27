@@ -6,7 +6,6 @@ author_profile: true
 ---
 
 <style>
-/* RIGHT SIDE FLOATING NAV */
 #research-nav {
   position: fixed;
   top: 120px;            /* distance from top */
