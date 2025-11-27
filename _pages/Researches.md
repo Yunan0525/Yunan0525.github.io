@@ -100,7 +100,7 @@ author_profile: true
   <p><b>Implications:</b></p>
 
   - Strain-specific metabolism influences fitness in co-culture  
-  - These insights guide <b>synbiotic design</b> for targeted microbial modulation  
+  - These insights guide synbiotic design for targeted microbial modulation  
 </div>
   <img src="/images/research/study2.jpg" class="project-img" alt="Study Design">
    <div style="font-size:0.9rem; color:#666; margin-top: -10px; text-align:center;">
@@ -121,8 +121,8 @@ author_profile: true
 
   <p><b>Focus areas:</b></p>
 
-  - Quantification of mucus secretion  
-  - Changes in O-glycan motifs supporting beneficial adhesion  
+  - Quantification of mucus secretion
+  - Changes in O-glycan motifs supporting beneficial adhesion
   - Mucus–microbiota spatial organization (histology + FISH) 
     </div>
   <img src="/images/research/study3.jpg" class="project-img" alt="Goblet cells">  
