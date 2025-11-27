@@ -47,7 +47,7 @@ author_profile: true
   margin-bottom: 20px;
   box-shadow: 0 2px 8px rgba(0,0,0,0.12);
 }
-  image-card {
+ .image-card {
   border: 1px solid #e0e0e0;
   border-radius: 12px;
   padding: 10px 15px;
@@ -56,15 +56,19 @@ author_profile: true
   text-align: center;
   box-shadow: 0 2px 8px rgba(0,0,0,0.08);
 }
+
 .image-card img {
-  max-width: 100%;
+  max-width: 350px;  /* smaller size (you can try 300–400px) */
+  width: 90%;
   border-radius: 8px;
+  margin-top: 5px;
 }
+
 .image-card .caption {
   margin-top: 10px;
   font-size: 0.9rem;
   color: #666;
-  font-style: italic;
+  font-style: italic;   /* italic caption */
 }
 </style>
 
