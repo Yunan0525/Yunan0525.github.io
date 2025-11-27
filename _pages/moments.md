@@ -15,14 +15,14 @@ Here I share small moments from my life outside of academia.
   position: sticky;
   top: 40px;
   background: #ffffff;
-  padding: 10px 15px;
+  padding: 20px 35px;
   border-radius: 10px;
   box-shadow: 0 2px 6px rgba(0,0,0,0.08);
   margin-bottom: 25px;
   display: flex;
   gap: 15px;
   flex-wrap: wrap;
-  z-index: 10;
+  z-index: 30;
 }
 
 #moments-nav a {
