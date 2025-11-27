@@ -54,6 +54,4 @@ Feel free to check out my Moments page for snapshots of daily life!
 
 ---
 
-Thank you for visiting my website — I’m excited to share my research and journey with you! 😊
-
 Feel free to explore my research, CV, and updates across the site — and thank you for visiting! 😊
