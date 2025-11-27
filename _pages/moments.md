@@ -13,7 +13,7 @@ Here I share small moments from my life outside of academia.
 /* Floating navigation bar */
 #moments-nav {
   position: sticky;
-  top: 40px;
+  top: 50px;
   background: #ffffff;
   padding: 20px 35px;
   border-radius: 10px;
@@ -22,7 +22,7 @@ Here I share small moments from my life outside of academia.
   display: flex;
   gap: 15px;
   flex-wrap: wrap;
-  z-index: 30;
+  z-index: 40;
 }
 
 #moments-nav a {
