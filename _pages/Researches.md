@@ -97,7 +97,6 @@ author_profile: true
 <div class="image-card">
   <img src="/images/research/study1.jpg" alt="Hypothesis Figure">
   <div class="caption">Hypothesis of how prebiotics combined with RDC can prevent CDI</div>
-</div>
 
 
   <p><b>Key goals:</b></p>
