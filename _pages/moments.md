@@ -13,7 +13,7 @@ Here I share small moments from my life outside of academia.
 /* Floating navigation bar */
 #moments-nav {
   position: sticky;
-  top: 20px;
+  top: 40px;
   background: #ffffff;
   padding: 10px 15px;
   border-radius: 10px;
