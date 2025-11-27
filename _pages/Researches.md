@@ -133,8 +133,8 @@ author_profile: true
  <div class="image-card">
   <img src="/images/research/study2.jpg" alt="Study Design">
   <div class="caption">Study Design</div>
-
-
+ </div>
+---
 
 <div id="mucus" class="project-section">
   <div class="project-title">🧫 How Prebiotics Remodel Intestinal Mucus</div>
