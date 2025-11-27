@@ -58,8 +58,8 @@ author_profile: true
 }
 
 .image-card img {
-  max-width: 350px;  /* smaller size (you can try 300–400px) */
-  width: 90%;
+  max-width: 300px;  /* smaller size (you can try 300–400px) */
+  width: 80%;
   border-radius: 8px;
   margin-top: 5px;
 }
