@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: " "
+title: "Research"
 permalink: /research/
 author_profile: true
 ---
@@ -75,7 +75,6 @@ author_profile: true
 }
 </style>
 
-# Research Projects
 
 <div id="research-nav">
   <a href="#rdc">Rationally Designed Consortia (RDC) Against C. difficile</a>
