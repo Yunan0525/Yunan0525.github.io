@@ -102,8 +102,8 @@ author_profile: true
 
   <p><b>Key goals:</b></p>
 
-  - Test synbiotic (GOS/hGOS + RDC) protection across age groups  
-  - Determine how prebiotics reshape microbial competition and nutrient use  
+  - Test synbiotic (GOS/hGOS + RDC) protection across age groups
+  - Determine how prebiotics reshape microbial competition and nutrient use
   - Develop mechanistic foundations for next-generation synbiotics for CDI prevention  
 
 
