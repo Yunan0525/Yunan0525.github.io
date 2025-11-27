@@ -17,8 +17,14 @@ table {
 
 thead {
   background-color: var(--global-border-color);
+  color: white;               /* Make header text white */
   border-bottom: 1px solid var(--global-border-color);
 }
+
+thead th {
+  color: white !important;    /* Ensure header cells are white */
+}
+
 
 th {
   padding: 0.5em;
