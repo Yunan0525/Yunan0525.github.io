@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 #site_theme               : "minimal-mistakes-jekyll" # Currently available options are "default", "air"
-remote_theme: "cotes2020/jekyll-theme-chirpy"
-title: "Yunan Hu (胡 雨楠)"
-name: "Yunan Hu"
+remote_theme: "jekyll-theme-architect"
+title: "Yunan Hu"
+name: "Yunan Hu (胡雨楠)"
 email: "yunan@ad.unc.edu"
 description: "PhD candidate in Microbiology and Immunology, University of North Carolina at Chapel Hill"
 
