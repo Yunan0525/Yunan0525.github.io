@@ -61,8 +61,8 @@ author_profile: true
 }
 
 .image-card img {
-  max-width: 250px;   /* adjust if too small */
-  width: 60%;
+  max-width: 270px;   /* adjust if too small */
+  width: 70%;
   border-radius: 8px;
   margin-top: 5px;
 }
