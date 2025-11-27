@@ -12,7 +12,9 @@ redirect_from:
 
 # Hi, I’m Yunan! 👋
 
-I’m a PhD candidate in Microbiology and Immunology at the University of North Carolina at Chapel Hill, where I study gut microbiome ecology, host–microbe interactions, and microbiome-based interventions.  
+I’m a PhD candidate in Microbiology and Immunology at the University of North Carolina at Chapel Hill, where I study gut microbiome ecology, host–microbe interactions, and microbiome-based interventions. I am currently mentored by M. Andrea Azcarate-Peril, PhD, director of the UNC Microbiome Core, where our group focuses on microbiome–host interactions, prebiotics, and translational microbiome research.  
+[Lab Website](https://www.med.unc.edu/microbiome/)
+
 
 I was born in Beijing, China, and my academic background spans food science, nutrition, and microbiology. During my early training, I became fascinated by how trillions of microbes living in our gut silently shape our health.  
 This curiosity gradually grew into a passion: understanding the gut microbiome and learning how to modulate it to promote human health.
