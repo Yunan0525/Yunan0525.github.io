@@ -10,7 +10,7 @@ redirect_from:
 
 <img src="/images/moments/yunan.jpg" alt="Yunan Hu photo" width="260" style="border-radius: 12px; float: right; margin-left: 25px; margin-bottom: 10px;">
 
-# Hi, I’m Yunan! 👋
+# Hi, I’m Yunan!
 
 I’m a PhD candidate in Microbiology and Immunology at the University of North Carolina at Chapel Hill, where I study gut microbiome ecology, host–microbe interactions, and microbiome-based interventions. I am currently mentored by **professor M. Andrea Azcarate-Peril, PhD**, director of the UNC Microbiome Core, where our group focuses on microbiome–host interactions, prebiotics, and translational microbiome research.  
 [Lab Website](https://www.med.unc.edu/microbiome/)
