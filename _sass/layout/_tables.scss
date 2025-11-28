@@ -16,15 +16,10 @@ table {
 }
 
 thead {
+  /* 表头背景色（你可以改成自己喜欢的颜色） */
   background-color: var(--global-border-color);
-  color: white;               /* Make header text white */
   border-bottom: 1px solid var(--global-border-color);
 }
-
-thead th {
-  color: white !important;    /* Ensure header cells are white */
-}
-
 
 th {
   padding: 0.5em;
@@ -39,6 +34,8 @@ td {
   border-right: 1px solid var(--global-border-color);
 }
 
-tr, td, th {
+tr,
+td,
+th {
   vertical-align: middle;
 }
