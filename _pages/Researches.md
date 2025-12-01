@@ -245,16 +245,20 @@ toc: false
     In this project, we compared three types of light-flavor <i>Daqu</i>—Houhuo (HH), Hongxin (HX), and Qingcha (QC)—that differ mainly in their manually controlled incubation temperature profiles. Using amplicon sequencing of bacterial 16S rRNA and fungal ITS regions together with <sup>1</sup>H NMR metabolomics, we characterized how temperature shaping during incubation structures both the microbiome and the metabolite landscape of these starters.
     </p>
 
-    <p>
-    We found that <i>Lactobacillus</i> and <i>Weissella</i> dominated the bacterial community, while <i>Pichia</i> and <i>Saccharomycopsis</i> were the major fungi across all three <i>Daqu</i> types. Temperature-associated shifts in lactic acid bacteria were linked to differences in enzymatic activity and predicted metabolic pathways, especially amino acid, energy, and lipid metabolism. Correlation analysis between core microbes and small-molecule metabolites highlighted how organic acids and antimicrobial compounds contribute to community structure and stability.
-    </p>
-
     <p><b>Highlights:</b></p>
     <ul>
       <li>Revealed how manual temperature control during <i>Daqu</i> incubation shapes bacterial and fungal communities</li>
       <li>Integrated microbiome sequencing with NMR-based metabolite profiling to link taxa with flavor-related metabolites</li>
       <li>Provided a framework for more controlled design and management of traditional solid-state fermentation starters</li>
     </ul>
+    
+    <!-- Learn more button: replace the href with your real paper link -->
+    <a class="learn-more-btn"
+       href="https://doi.org/10.1016/j.fbio.2021.101395"
+       target="_blank"
+       rel="noopener">
+      Learn more →
+    </a>
   </div>
 
   <div class="project-image">
