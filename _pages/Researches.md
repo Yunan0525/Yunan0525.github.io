@@ -7,14 +7,18 @@ toc: false
 ---
 
 <style>
-/* Top local navigation bar */
+/* Top local navigation bar (sticky) */
 .research-top-nav {
+  position: sticky;
+  top: 70px; /* adjust if it overlaps the main site header */
+  z-index: 10;
   display: flex;
   flex-wrap: wrap;
   gap: 10px;
   margin: 10px 0 25px 0;
   padding: 10px 0;
   border-bottom: 1px solid #e0e0e0;
+  background: #ffffff; /* so it doesn't show content underneath when sticky */
 }
 
 .research-top-nav a {
@@ -113,6 +117,9 @@ toc: false
     flex-direction: column;
     align-items: flex-start;
   }
+  .research-top-nav {
+    top: 60px;
+  }
   .project-image {
     text-align: left;
   }
@@ -122,11 +129,12 @@ toc: false
 }
 </style>
 
-<!-- Local navigation bar at the top -->
+<!-- Local navigation bar at the top (sticky) -->
 <nav class="research-top-nav">
   <a href="#rdc">Rationally Designed Consortia (RDC)</a>
   <a href="#lacto">Prebiotic-Driven Lactobacillus Dynamics</a>
   <a href="#mucus">Prebiotics & Intestinal Mucus Remodeling</a>
+  <a href="#daqu">Daqu Microbiome in Chinese Liquor Fermentation</a>
 </nav>
 
 ---
@@ -165,7 +173,7 @@ toc: false
 
     <p>
     Probiotics such as <i>Lactobacillus</i> interact dynamically within microbial communities. 
-    We examined how different carbohydrates—glucose, lactose, GOS, and our humanized GOS (hGOS)—shape the growth and competition of three fluorescently labeled strains: <b>LGG</b>, <b>AMC143</b>, and <b>L. plantarum</b> (Lp).
+    We examined how different carbohydrates—glucose, lactose, GOS, and humanized GOS (hGOS)—shape the growth and competition of three fluorescently labeled strains: <b>LGG</b>, <b>AMC143</b>, and <b>L. plantarum</b> (Lp).
     </p>
 
     <p>
@@ -219,6 +227,38 @@ toc: false
 
   <div class="project-image">
     <img src="/images/research/study3.jpg" alt="Goblet cells and mucus architecture">
-    <div class="caption">Goblet cells and mucus architecture in prebiotic-treated aging models.</div>
+    <div class="caption">Goblet cells and mucus architecture.</div>
+  </div>
+</div>
+
+---
+
+<div id="daqu" class="project-card">
+  <div class="project-text">
+    <h2>🍶 Microbial Ecosystems in Chinese Liquor Starter Daqu Fermentation Starters</h2>
+
+    <p>
+    Before moving into gut microbiome work, I studied the microbial communities that drive traditional Chinese liquor (Baijiu) fermentation. Light-flavor Baijiu relies on low-temperature <i>Daqu</i> bricks as the fermentation starter, which provide a complex inoculum of bacteria, yeasts, and filamentous fungi.
+    </p>
+
+    <p>
+    In this project, we compared three types of light-flavor <i>Daqu</i>—Houhuo (HH), Hongxin (HX), and Qingcha (QC)—that differ mainly in their manually controlled incubation temperature profiles. Using amplicon sequencing of bacterial 16S rRNA and fungal ITS regions together with <sup>1</sup>H NMR metabolomics, we characterized how temperature shaping during incubation structures both the microbiome and the metabolite landscape of these starters.
+    </p>
+
+    <p>
+    We found that <i>Lactobacillus</i> and <i>Weissella</i> dominated the bacterial community, while <i>Pichia</i> and <i>Saccharomycopsis</i> were the major fungi across all three <i>Daqu</i> types. Temperature-associated shifts in lactic acid bacteria were linked to differences in enzymatic activity and predicted metabolic pathways, especially amino acid, energy, and lipid metabolism. Correlation analysis between core microbes and small-molecule metabolites highlighted how organic acids and antimicrobial compounds contribute to community structure and stability.
+    </p>
+
+    <p><b>Highlights:</b></p>
+    <ul>
+      <li>Revealed how manual temperature control during <i>Daqu</i> incubation shapes bacterial and fungal communities</li>
+      <li>Integrated microbiome sequencing with NMR-based metabolite profiling to link taxa with flavor-related metabolites</li>
+      <li>Provided a framework for more controlled design and management of traditional solid-state fermentation starters</li>
+    </ul>
+  </div>
+
+  <div class="project-image">
+    <img src="/images/research/daqu.png" alt="Daqu bricks used as fermentation starters">
+    <div class="caption">Low-temperature <i>Daqu</i> bricks that seed microbial communities for light-flavor Baijiu fermentation.</div>
   </div>
 </div>
