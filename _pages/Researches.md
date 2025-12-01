@@ -134,7 +134,7 @@ toc: false
   <a href="#rdc">Rationally Designed Consortia (RDC)</a>
   <a href="#lacto">Prebiotic-Driven Lactobacillus Dynamics</a>
   <a href="#mucus">Prebiotics & Intestinal Mucus Remodeling</a>
-  <a href="#daqu">Daqu Microbiome in Chinese Liquor Fermentation</a>
+  <a href="#daqu">Daqu Microbiome</a>
 </nav>
 
 ---
@@ -235,7 +235,7 @@ toc: false
 
 <div id="daqu" class="project-card">
   <div class="project-text">
-    <h2>🍶 Microbial Ecosystems in Chinese Liquor Starter Daqu Fermentation Starters</h2>
+    <h2>🍶 Microbial Ecosystems in Chinese Liquor Starter Daqu Fermentation</h2>
 
     <p>
     Before moving into gut microbiome work, I studied the microbial communities that drive traditional Chinese liquor (Baijiu) fermentation. Light-flavor Baijiu relies on low-temperature <i>Daqu</i> bricks as the fermentation starter, which provide a complex inoculum of bacteria, yeasts, and filamentous fungi.
