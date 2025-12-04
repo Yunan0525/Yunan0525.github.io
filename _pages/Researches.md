@@ -218,7 +218,7 @@ toc: false
 
     <!-- Learn more button: replace the href with your real paper link -->
     <a class="learn-more-btn"
-       href="https://your-paper-link-or-doi-here"
+       href="[doi](https://www.sciencedirect.com/science/article/abs/pii/S2212429225022308)"
        target="_blank"
        rel="noopener">
       Learn more →
