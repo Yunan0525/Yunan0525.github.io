@@ -48,10 +48,8 @@ author_profile: true
 <div class="news-card">
   <div class="news-title">🧪 Presented at the CGIBD Research Competition</div>
   <div class="news-date">December 10, 2025</div>
-  Yunan attended the CGIBD Research Competition and presented her work on  
-  <strong>how prebiotics enhance the persistence of consortium bacteria in the gut</strong>.  
+  Yunan attended the CGIBD Research Competition and presented her work on how prebiotics enhance the persistence of consortium bacteria in the gut.  
   It was a great opportunity to showcase microbiome research and connect with the CGIBD scientific community.
-
   <br><br>
 </div>
 
