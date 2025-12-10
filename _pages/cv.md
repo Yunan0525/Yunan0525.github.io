@@ -57,8 +57,9 @@ Email: [yunan@ad.unc.edu](mailto:yunan@ad.unc.edu)
 ---
 
 ### **Publications in Process**
-1. **Hu, Y.**, Arnold, J., et al. Mechanisms of Galectin-1 Induction by Galactooligosaccharides.  
+1. **Hu Y.**, Arnold, J., et al. Mechanisms of Galectin-1 Induction by Galactooligosaccharides.  
 2. Aljumaah MR, Roach J., **Hu Y**, et al. Mapping the Microbial World Within: Human Gut Microbiome in Organ Donors.
+3. Aljumaah MR, Isawi I, Roach J., **Hu Y**, et al. Gut Microbial Dipeptidyl Peptidase-4 and Associated Prolyl Tripeptidyl Peptidases: A Novel Classification and Response to Inhibitors. [preprint](https://www.researchsquare.com/article/rs-7312416/v1)
 
 ---
 
