@@ -34,9 +34,26 @@ author_profile: true
   border-radius: 8px;
   margin-top: 10px;
 }
+  /* NEW: Small image floated to the right */
+.news-img-right {
+  width: 180px;          /* adjust size */
+  float: right;
+  margin-left: 15px;
+  margin-bottom: 10px;
+  border-radius: 8px;
+}
 </style>
 
 # Recent News
+<div class="news-card">
+  <div class="news-title">🧪 Presented at the CGIBD Research Competition</div>
+  <div class="news-date">December 10, 2025</div>
+  Yunan attended the CGIBD Research Competition and presented her work on  
+  <strong>how prebiotics enhance the persistence of consortium bacteria in the gut</strong>.  
+  It was a great opportunity to showcase microbiome research and connect with the CGIBD scientific community.
+
+  <br><br>
+</div>
 
 <div class="news-card">
   <div class="news-title">🎉 Passed My PhD Qualifying Exam!</div>
@@ -50,10 +67,3 @@ author_profile: true
   <img src="/images/news/qualify1.jpg" class="news-img" alt="During exam presenting my thesis work">
 </div>
 
-
-<div class="news-card">
-  <div class="news-title">✨ More Updates Coming Soon</div>
-  <div class="news-date">2025–2026</div>
-
-  I will continue to update this page with new research achievements, presentations, and publications.
-</div>
