@@ -55,6 +55,5 @@ author_profile: true
   I am excited to share that I successfully passed my PhD Qualifying Exam!  
   This is a major milestone in my PhD journey, and I am deeply grateful for the support from my advisors, collaborators, lab members, and friends.
 
-  <img src="/images/news/qualify1.jpg" class="news-img-right" alt="During exam presenting my thesis work">
 </div>
 
