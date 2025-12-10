@@ -34,7 +34,7 @@ Email: [yunan@ad.unc.edu](mailto:yunan@ad.unc.edu)
 
 ### **Peer-reviewed Publications**  
 
-1.**Hu Y**, Rueppell A, Devpura N, Zasloff R, Arnold J, Roach J, Magness S, Bruno-Bárcena J, Azcarate-Peril MA. Prebiotic β (1-4) Galacto-oligosaccharides Strengthen Intestinal Barrier Integrity via Mucus Production and Modulation of Tight Junction Genes. *Food Bioscience.* 2025,108052.[DOI:10.1016/j.fbio.2025.108052](https://doi.org/10.1016/j.fbio.2025.108052)
+1. **Hu Y**, Rueppell A, Devpura N, Zasloff R, Arnold J, Roach J, Magness S, Bruno-Bárcena J, Azcarate-Peril MA. Prebiotic β (1-4) Galacto-oligosaccharides Strengthen Intestinal Barrier Integrity via Mucus Production and Modulation of Tight Junction Genes. *Food Bioscience.* 2025,108052.[DOI:10.1016/j.fbio.2025.108052](https://doi.org/10.1016/j.fbio.2025.108052)
 
 2. Aljumaah MR, Roach J, **Hu Y**, Gunstad J, Azcarate-Peril MA. Microbial dipeptidyl peptidases of the S9B family as host-microbe isozymes. *Sci Adv.* 2025;11(14):eads5721. [DOI: 10.1126/sciadv.ads5721](https://www.science.org/doi/full/10.1126/sciadv.ads5721)
 
@@ -64,7 +64,7 @@ Email: [yunan@ad.unc.edu](mailto:yunan@ad.unc.edu)
 
 ## **4. Posters and Conference Proceedings**  
 
-1.**CGIBD Research Competition, 2025 (oral presentation).**
+1. **CGIBD Research Competition, 2025 (oral presentation).**
    *Pure beta(1-4) Galactooligosaccharides enable the persistence of a rationally designed consortium in the intestinal tract.*  
    Yunan Hu
    
