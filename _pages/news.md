@@ -13,6 +13,7 @@ author_profile: true
   margin-bottom: 25px;
   box-shadow: 0 2px 6px rgba(0,0,0,0.08);
   background-color: #ffffff;
+  overflow: hidden;  
 }
 .news-card:hover {
   box-shadow: 0 4px 12px rgba(0,0,0,0.12);
@@ -30,7 +31,7 @@ author_profile: true
 }
   /* NEW: Small image floated to the right */
 .news-img-right {
-  width: 180px;          /* adjust size */
+  width: 150px;          /* adjust size */
   float: right;
   margin-left: 15px;
   margin-bottom: 10px;
@@ -53,8 +54,6 @@ author_profile: true
 
   I am excited to share that I successfully passed my PhD Qualifying Exam!  
   This is a major milestone in my PhD journey, and I am deeply grateful for the support from my advisors, collaborators, lab members, and friends.
-
-  <br><br>
 
   <img src="/images/news/qualify1.jpg" class="news-img-right" alt="During exam presenting my thesis work">
 </div>
