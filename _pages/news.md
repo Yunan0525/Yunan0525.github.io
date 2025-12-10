@@ -28,12 +28,6 @@ author_profile: true
   font-size: 0.9rem;
   margin-bottom: 12px;
 }
-.news-img {
-  width: 60%;
-  max-width: 500px;
-  border-radius: 8px;
-  margin-top: 10px;
-}
   /* NEW: Small image floated to the right */
 .news-img-right {
   width: 180px;          /* adjust size */
@@ -62,6 +56,6 @@ author_profile: true
 
   <br><br>
 
-  <img src="/images/news/qualify1.jpg" class="news-img" alt="During exam presenting my thesis work">
+  <img src="/images/news/qualify1.jpg" class="news-img-right" alt="During exam presenting my thesis work">
 </div>
 
