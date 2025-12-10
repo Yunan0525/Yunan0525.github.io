@@ -57,15 +57,18 @@ Email: [yunan@ad.unc.edu](mailto:yunan@ad.unc.edu)
 ---
 
 ### **Publications in Process**
-1. **Hu Y.**, Arnold, J., et al. Mechanisms of Galectin-1 Induction by Galactooligosaccharides.  
-2. Aljumaah MR, Roach J., **Hu Y**, et al. Mapping the Microbial World Within: Human Gut Microbiome in Organ Donors.
-3. Aljumaah MR, Isawi I, Roach J., **Hu Y**, et al. Gut Microbial Dipeptidyl Peptidase-4 and Associated Prolyl Tripeptidyl Peptidases: A Novel Classification and Response to Inhibitors. [preprint](https://www.researchsquare.com/article/rs-7312416/v1)
+1. Aljumaah MR, Isawi I, Roach J., **Hu Y**, et al. Gut Microbial Dipeptidyl Peptidase-4 and Associated Prolyl Tripeptidyl Peptidases: A Novel Classification and Response to Inhibitors. [preprint](https://www.researchsquare.com/article/rs-7312416/v1)
+2. **Hu Y.**, Arnold, J., et al. Mechanisms of Galectin-1 Induction by Galactooligosaccharides.  
+3. Aljumaah MR, Roach J., **Hu Y**, et al. Mapping the Microbial World Within: Human Gut Microbiome in Organ Donors.
+4. Wang BR, **Hu Y**, et al. Structural characterization and hepatoprotective mechanism of alkali-soluble Poria cocos polysaccharides modified by dynamic high-pressure microfluidization.
+5. **Hu Y**, Devpura N, et al. Lactobacillus co-culture dynamics in response to different carbohydrates.
+6. **Hu Y**, Moore M, et al. Synergistic Effects of β (1-4) Galactooligosaccharides Combined with Rationally Designed Consortia on Preventing Clostridioides difficile Infection.
 
 ---
 
 ## **4. Posters and Conference Proceedings**  
 
-1. **CGIBD Research Competition, 2025 (oral presentation).**
+1. **CGIBD Research Competition, 2025 (Oral).**
    *Pure beta(1-4) Galactooligosaccharides enable the persistence of a rationally designed consortium in the intestinal tract.*  
    Yunan Hu
    
