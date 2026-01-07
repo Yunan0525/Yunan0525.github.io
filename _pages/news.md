@@ -41,6 +41,13 @@ author_profile: true
 
 # Recent News
 <div class="news-card">
+  <div class="news-title">🎉 New paper published</div>
+  <div class="news-date">January 2026</div>
+
+  I am excited to share that my recent paper "Prebiotic β (1–4) galacto-oligosaccharides strengthen intestinal barrier integrity via mucus production and modulation of tight junction genes" has been published in Food Bioscience.
+
+</div>
+<div class="news-card">
   <div class="news-title">🧪 Presented at the CGIBD Research Competition</div>
   <div class="news-date">December 10, 2025</div>
   Yunan attended the CGIBD Research Competition and presented her work on how prebiotics enhance the persistence of consortium bacteria in the gut.  
