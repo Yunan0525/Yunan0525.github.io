@@ -44,7 +44,11 @@ author_profile: true
   <div class="news-title">🎉 New paper published</div>
   <div class="news-date">January 2026</div>
 
-  I am excited to share that my recent [paper](https://doi.org/10.1016/j.fbio.2025.108052) "Prebiotic β (1–4) galacto-oligosaccharides strengthen intestinal barrier integrity via mucus production and modulation of tight junction genes" has been published in Food Bioscience.
+  I am excited to share that my recent  
+  <a href="https://doi.org/10.1016/j.fbio.2025.108052" target="_blank">
+    paper
+  </a>
+  "Prebiotic β (1–4) galacto-oligosaccharides strengthen intestinal barrier integrity via mucus production and modulation of tight junction genes" has been published in Food Bioscience.
 
 </div>
 <div class="news-card">
