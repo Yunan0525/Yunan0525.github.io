@@ -41,6 +41,15 @@ author_profile: true
 
 # Recent News
 <div class="news-card">
+  <div class="news-title">🖼️ Poster presented at UNC Microbiology and Immunology Department Retreat 2026</div>
+  <div class="news-date">March 2026</div>
+
+  Yunan presented a poster at the UNC Microbiology and Immunology Department Retreat 2026 on 
+  <em>“Dietary Prebiotics β(1–4) Galacto-oligosaccharides Strengthen the Intestinal Barrier via Mucus Enhancement and Tight Junction Regulation.”</em>
+  This work used human primary colonic cells and HT29-MTX cells to investigate the direct effects of prebiotics on intestinal barrier function.
+</div>
+
+<div class="news-card">
   <div class="news-title">🎉 New paper published</div>
   <div class="news-date">January 2026</div>
 
