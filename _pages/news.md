@@ -37,6 +37,23 @@ author_profile: true
   margin-bottom: 10px;
   border-radius: 8px;
 }
+  /* share buttons */
+.news-share {
+  margin-top: 14px;
+  padding-top: 10px;
+  border-top: 1px solid #f0f0f0;
+  font-size: 0.95rem;
+}
+.news-share a {
+  display: inline-block;
+  margin-right: 10px;
+  margin-top: 6px;
+  text-decoration: none;
+  color: #2a5db0;
+}
+.news-share a:hover {
+  text-decoration: underline;
+}
 </style>
 
 # Recent News
@@ -56,6 +73,10 @@ author_profile: true
   <p>
     Looking forward to connecting and discussing cutting-edge research on prebiotics and probiotics!
   </p>
+  <div class="news-share">
+    Share:
+    <a href="https://www.linkedin.com/sharing/share-offsite/?url=https://yunan0525.github.io/news/" target="_blank">LinkedIn</a>
+  </div>
 </div>
   
   <div class="news-card">
