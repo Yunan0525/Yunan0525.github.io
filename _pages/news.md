@@ -41,6 +41,24 @@ author_profile: true
 
 # Recent News
 <div class="news-card">
+ <div class="news-title">🎉 Accepted to the ISAPP Annual Conference 2026 and received a travel award</div>
+  <div class="news-date">April 2026</div>
+
+  <p>
+    I am excited to share that I will be attending the International Scientific Association for Probiotics and Prebiotics
+(ISAPP) Annual Conference 2026 in Japan from October 6–8.
+    <a href="https://isappscience.org/event/isapp-2026-annual-meeting/" target="_blank">
+      Conference details
+    </a>.
+    I have also received a travel award from ISAPP-SFA.
+  </p>
+
+  <p>
+    Looking forward to connecting and discussing cutting-edge research on prebiotics and probiotics!
+  </p>
+</div>
+  
+  <div class="news-card">
   <div class="news-title">🧪 Presented at UNC Microbiology and Immunology Department Student Seminar </div>
   <div class="news-date">March 2026</div>
 
