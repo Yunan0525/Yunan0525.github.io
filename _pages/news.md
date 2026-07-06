@@ -58,6 +58,21 @@ author_profile: true
 
 # Recent News
 <div class="news-card">
+  <div class="news-title">📄 New manuscript submitted to <i>Nature Communications</i> — Preprint now available</div>
+  <div class="news-date">July 2026</div>
+
+  <p>
+    We have submitted our latest manuscript to <i>Nature Communications</i>.
+    While the manuscript is under review, the preprint is now publicly available on Research Square:
+    <a href="https://www.researchsquare.com/article/rs-9927529/v1" target="_blank">
+      Read the preprint
+    </a>.
+  </p>
+</div>
+
+
+
+<div class="news-card">
  <div class="news-title">🎉 Accepted to the ISAPP Annual Conference 2026 and received a travel award</div>
   <div class="news-date">April 2026</div>
 
