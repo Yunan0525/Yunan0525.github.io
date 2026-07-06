@@ -67,6 +67,11 @@ author_profile: true
     <a href="https://www.researchsquare.com/article/rs-9927529/v1" target="_blank">
       Read the preprint
     </a>.
+  <p>
+    This study provides a comprehensive view of the gut microbiome across the human intestine using organ donor samples.
+    By profiling bacteria, fungi, viruses, and other microbial kingdoms across different intestinal regions, we uncover
+    the spatial organization and ecological interactions that shape the healthy human gut microbiome.
+  </p>
   </p>
 </div>
 
