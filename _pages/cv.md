@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 [Click here to download my CV (PDF)](/Curriculum Vitae.pdf)
-
+*last update: 2026-07-07*
 
 # **Yunan Hu, M.S.**  
 Email: [yunan@ad.unc.edu](mailto:yunan@ad.unc.edu)
@@ -34,35 +34,35 @@ Email: [yunan@ad.unc.edu](mailto:yunan@ad.unc.edu)
 
 ### **Peer-reviewed Publications**  
 
-1. **Hu Y**, Rueppell A, Devpura N, Zasloff R, Arnold J, Roach J, Magness S, Bruno-Bárcena J, Azcarate-Peril MA. Prebiotic β (1-4) Galacto-oligosaccharides Strengthen Intestinal Barrier Integrity via Mucus Production and Modulation of Tight Junction Genes. *Food Bioscience.* 2025,108052.[DOI:10.1016/j.fbio.2025.108052](https://doi.org/10.1016/j.fbio.2025.108052)
+1. **Y Hu**, A Rueppell, N Devpura, R Zasloff, J Arnold, J Roach, S Magness, J Bruno-Bárcena, MA Azcarate-Peril. Prebiotic β (1-4) Galacto-oligosaccharides Strengthen Intestinal Barrier Integrity via Mucus Production and Modulation of Tight Junction Genes. *Food Bioscience.* 2025,108052.[DOI:10.1016/j.fbio.2025.108052](https://doi.org/10.1016/j.fbio.2025.108052)
 
-2. Aljumaah MR, Roach J, **Hu Y**, Gunstad J, Azcarate-Peril MA. Microbial dipeptidyl peptidases of the S9B family as host-microbe isozymes. *Sci Adv.* 2025;11(14):eads5721. [DOI: 10.1126/sciadv.ads5721](https://www.science.org/doi/full/10.1126/sciadv.ads5721)
+2. MR Aljumaah, J Roach, **Y Hu**, J Gunstad, MA Azcarate-Peril. Microbial dipeptidyl peptidases of the S9B family as host-microbe isozymes. *Sci Adv.* 2025;11(14):eads5721. [DOI: 10.1126/sciadv.ads5721](https://www.science.org/doi/full/10.1126/sciadv.ads5721)
 
-3. **Hu Y**, Aljumaah MR, Azcarate-Peril MA. Galacto-Oligosaccharides and the Elderly Gut: Implications for Immune Restoration and Health. *Advances in Nutrition.* 2024;15(8):100263. [DOI:10.1016/j.advnut.2024.100263](https://doi.org/10.1016/j.advnut.2024.100263)
+3. **Y Hu**, MR Aljumaah, MA Azcarate-Peril. Galacto-Oligosaccharides and the Elderly Gut: Implications for Immune Restoration and Health. *Advances in Nutrition.* 2024;15(8):100263. [DOI:10.1016/j.advnut.2024.100263](https://doi.org/10.1016/j.advnut.2024.100263)
 
-4. Kang J, Li R, **Hu Y**, Huang X, Chen X-X, Han B-Z. Microbial interactions in mixed-species biofilms on surfaces of Baijiu brewing environments. *Food Research International.* 2024;191:114698. [DOI:10.1016/j.foodres.2024.114698](https://doi.org/10.1016/j.foodres.2024.114698)
+4. J Kang, R Li, **Y Hu**, X Huang, X-X Chen, B-Z Han. Microbial interactions in mixed-species biofilms on surfaces of Baijiu brewing environments. *Food Research International.* 2024;191:114698. [DOI:10.1016/j.foodres.2024.114698](https://doi.org/10.1016/j.foodres.2024.114698)
 
-5. Tian S, **Hu Y**, Chen X, Liu C, Xue Y, Han B. Green synthesis of silver nanoparticles using sodium alginate and tannic acid: characterization and anti–S. aureus activity. *Int J Biol Macromol.* 2022;195:515-522. [DOI:10.1016/j.ijbiomac.2021.12.031](https://doi.org/10.1016/j.ijbiomac.2021.12.031)
+5. S Tian, **Y Hu**, X Chen, C Liu, Y Xue, B Han. Green synthesis of silver nanoparticles using sodium alginate and tannic acid: characterization and anti–S. aureus activity. *Int J Biol Macromol.* 2022;195:515-522. [DOI:10.1016/j.ijbiomac.2021.12.031](https://doi.org/10.1016/j.ijbiomac.2021.12.031)
 
-6. Kang J, **Hu Y**, Jia L, Zhang M, Zhang Z, Huang X, Chen X, Han B-Z. Response of microbial community assembly to abiotic factors during Baijiu fermentation. *Food Research International.* 2022;162:111915. [DOI:10.1016/j.foodres.2022.111915](https://doi.org/10.1016/j.foodres.2022.111915)
+6. J Kang, **Y Hu**, L Jia, M Zhang, Z Zhang, X Huang, X Chen, B-Z Han. Response of microbial community assembly to abiotic factors during Baijiu fermentation. *Food Research International.* 2022;162:111915. [DOI:10.1016/j.foodres.2022.111915](https://doi.org/10.1016/j.foodres.2022.111915)
 
-7. Kang J, **Hu Y**, Ding Z, Ye L, Li H, Cheng J, Fan L, Zhao H, Han B, Zheng X. Shifts in microbial community diversity from pretreatment to saccharification in Baijiu. *Front Microbiol.* 2021;12:705967. [DOI:10.3389/fmicb.2021.705967](https://doi.org/10.3389/fmicb.2021.705967)
+7. J Kang, **Y Hu**, Z Ding, L Ye, H Li, J Cheng, L Fan, H Zhao, B Han, X Zheng. Shifts in microbial community diversity from pretreatment to saccharification in Baijiu. *Front Microbiol.* 2021;12:705967. [DOI:10.3389/fmicb.2021.705967](https://doi.org/10.3389/fmicb.2021.705967)
 
-8. **Hu Y**, Huang X, Yang B, Zhang X, Han Y, Chen X-X, Han B-Z. Microbial community and metabolic profile of three light-flavor Daqu types. *Food Bioscience.* 2021;44:101395.[DOI:10.1016/j.fbio.2021.101395](https://doi.org/10.1016/j.fbio.2021.101395)
+8. **Y Hu**, X Huang, B Yang, X Zhang, Y Han, X-X Chen, B-Z Han. Microbial community and metabolic profile of three light-flavor Daqu types. *Food Bioscience.* 2021;44:101395.[DOI:10.1016/j.fbio.2021.101395](https://doi.org/10.1016/j.fbio.2021.101395)
 
 9. **胡雨楠**, 张钟晓, 陈小雪, 薛岩松, 韩北忠. 发酵时间对白酒二茬基酒风味影响. *中国酿造.* 2021;40(9):165-172.
 
-10. Chen X, **Hu Y**, Tian S, Han B. Interaction between *S. aureus* and raw-meat-environment *K. oxytoca* in dual-species biofilms. *Microorganisms.* 2021;9. [DOI:10.3390/microorganisms9040672](https://doi.org/10.3390/microorganisms9040672)
+10. X Chen, **Y Hu**, S Tian, B Han. Interaction between *S. aureus* and raw-meat-environment *K. oxytoca* in dual-species biofilms. *Microorganisms.* 2021;9. [DOI:10.3390/microorganisms9040672](https://doi.org/10.3390/microorganisms9040672)
 
 ---
 
 ### **Publications in Process**
-1. Aljumaah MR, Isawi I, Roach J., **Hu Y**, et al. Gut Microbial Dipeptidyl Peptidase-4 and Associated Prolyl Tripeptidyl Peptidases: A Novel Classification and Response to Inhibitors. [preprint](https://www.researchsquare.com/article/rs-7312416/v1)
-2. **Hu Y.**, Arnold, J., et al. Mechanisms of Galectin-1 Induction by Galactooligosaccharides.  
-3. Aljumaah MR, Roach J., **Hu Y**, et al. Mapping the Microbial World Within: Human Gut Microbiome in Organ Donors.
-4. Wang BR, **Hu Y**, et al. Structural characterization and hepatoprotective mechanism of alkali-soluble Poria cocos polysaccharides modified by dynamic high-pressure microfluidization.
-5. **Hu Y**, Devpura N, et al. Lactobacillus co-culture dynamics in response to different carbohydrates.
-6. **Hu Y**, Moore M, et al. Synergistic Effects of β (1-4) Galactooligosaccharides Combined with Rationally Designed Consortia on Preventing Clostridioides difficile Infection.
+1. MR Aljumaah, I Isawi, J Roach, **Y Hu**, et al. Gut Microbial Dipeptidyl Peptidase-4 and Associated Prolyl Tripeptidyl Peptidases: A Novel Classification and Response to Inhibitors. [preprint](https://www.researchsquare.com/article/rs-7312416/v1)
+2. **Y Hu**, Arnold, J., et al. Mechanisms of Galectin-1 Induction by Galactooligosaccharides.  
+3. **Y Hu**, MR Aljumaah, J Roach, et al. Spatial ecology of the multi-kingdom human intestinal microbiome. [preprint](https://doi.org/10.21203/rs.3.rs-9927529/v1)
+4. BR Wang, **Y Hu**, et al. Structural characterization and hepatoprotective mechanism of alkali-soluble Poria cocos polysaccharides modified by dynamic high-pressure microfluidization.
+5. **Y Hu**, et al. Lactobacillus co-culture dynamics in response to different carbohydrates.
+6. **Y Hu**, M Moore, et al. Synergistic Effects of β (1-4) Galactooligosaccharides Combined with Rationally Designed Consortia on Preventing Clostridioides difficile Infection.
 
 ---
 
@@ -70,15 +70,15 @@ Email: [yunan@ad.unc.edu](mailto:yunan@ad.unc.edu)
 
 1. **CGIBD Research Competition, 2025 (Oral).**
    *Pure beta(1-4) Galactooligosaccharides enable the persistence of a rationally designed consortium in the intestinal tract.*  
-   Yunan Hu
+   **Yunan Hu**
    
 2. **Gordon Research Conference (GRC), 2025 (Oral + Poster).**  
    *Pure prebiotics enable the persistence of probiotics and enhance their beneficial effects.*  
-   Yunan Hu, Madison Moore, Jeff Roach, Jeena James, Jason Arnold, Rita Tamayo, José M. Bruno-Bárcena, M. Andrea Azcarate-Peril.
+   **Yunan Hu**, Madison Moore, Jeff Roach, Jeena James, Jason Arnold, Rita Tamayo, José M. Bruno-Bárcena, M. Andrea Azcarate-Peril.
 
 3. **North Carolina Branch of the American Society for Microbiology (NC-ASM), 2024 (Oral).**  
    *Galacto-oligosaccharides Enhance Intestinal Barrier Function.*  
-   Yunan Hu.
+   **Yunan Hu**
 
 4. **American Society for Nutrition (ASN), 2024 (Poster).**  
    *The Beneficial Effects of a Combination of Prebiotics and Bacterial Consortium on Clostridioides difficile Infection in a Mouse Model. 2024, Current Developments in Nutrition.*  
@@ -108,6 +108,8 @@ Email: [yunan@ad.unc.edu](mailto:yunan@ad.unc.edu)
 
 | Student | Degree / Activity | Dates | Currently at |
 |---------|-------------------|--------|----------------|
+| **Louis Lee** | Biology | May 2026 - | UNC-Chapel Hill|
+| **Garrison Bruber** | Postbaccalaureate research | May 2026 - | UNC-Chapeil Hill|
 | **Inhwan Choi** | BBSP | Nov 2025 - Feb 2026 | UNC-Chapel Hill|
 | **Angela Molina** | Nutrition | August 2025 - | UNC-Chapeil Hill|
 | **Jin Ho Kim** | Biology | May 2025– | UNC-Chapel Hill |
@@ -132,6 +134,9 @@ Email: [yunan@ad.unc.edu](mailto:yunan@ad.unc.edu)
 - **2024–Present** — American Society for Nutrition (ASN)  
 - **2024–Present** — North Carolina branch of American Society for Microbiology (NC-ASM) 
 - **2024–Present** — American Society for Microbiology (ASM)
-
+- 
+### **Awards**
+- **2022** — Travel award for International scientific association for probiotics and prebiotics annual conference, Denver
+- **2026** — Travel award for International scientific association for probiotics and prebiotics annual conference, Japan
 ---
 
