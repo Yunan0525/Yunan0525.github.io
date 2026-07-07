@@ -17,7 +17,7 @@ Email: [yunan@ad.unc.edu](mailto:yunan@ad.unc.edu)
 ## **1. Personal Information**
 - **Name:** Yunan Hu, M.S.  
 - **Email:** yunan@ad.unc.edu  
-
+- **ORCID** [ORCID](https://orcid.org/0000-0002-1984-7098) 
 ---
 
 ## **2. Education**
@@ -42,7 +42,7 @@ Email: [yunan@ad.unc.edu](mailto:yunan@ad.unc.edu)
 
 4. J Kang, R Li, **Y Hu**, X Huang, X-X Chen, B-Z Han. Microbial interactions in mixed-species biofilms on surfaces of Baijiu brewing environments. *Food Research International.* 2024;191:114698. [DOI:10.1016/j.foodres.2024.114698](https://doi.org/10.1016/j.foodres.2024.114698)
 
-5. S Tian, **Y Hu**, X Chen, C Liu, Y Xue, B Han. Green synthesis of silver nanoparticles using sodium alginate and tannic acid: characterization and anti–S. aureus activity. *Int J Biol Macromol.* 2022;195:515-522. [DOI:10.1016/j.ijbiomac.2021.12.031](https://doi.org/10.1016/j.ijbiomac.2021.12.031)
+5. S Tian, **Y Hu**, X Chen, C Liu, Y Xue, B Han. Green synthesis of silver nanoparticles using sodium alginate and tannic acid: characterization and anti–*S. aureus* activity. *Int J Biol Macromol.* 2022;195:515-522. [DOI:10.1016/j.ijbiomac.2021.12.031](https://doi.org/10.1016/j.ijbiomac.2021.12.031)
 
 6. J Kang, **Y Hu**, L Jia, M Zhang, Z Zhang, X Huang, X Chen, B-Z Han. Response of microbial community assembly to abiotic factors during Baijiu fermentation. *Food Research International.* 2022;162:111915. [DOI:10.1016/j.foodres.2022.111915](https://doi.org/10.1016/j.foodres.2022.111915)
 
@@ -57,12 +57,12 @@ Email: [yunan@ad.unc.edu](mailto:yunan@ad.unc.edu)
 ---
 
 ### **Publications in Process**
-1. MR Aljumaah, I Isawi, J Roach, **Y Hu**, et al. Gut Microbial Dipeptidyl Peptidase-4 and Associated Prolyl Tripeptidyl Peptidases: A Novel Classification and Response to Inhibitors. [preprint](https://www.researchsquare.com/article/rs-7312416/v1)
-2. **Y Hu**, Arnold, J., et al. Mechanisms of Galectin-1 Induction by Galactooligosaccharides.  
-3. **Y Hu**, MR Aljumaah, J Roach, et al. Spatial ecology of the multi-kingdom human intestinal microbiome. [preprint](https://doi.org/10.21203/rs.3.rs-9927529/v1)
-4. BR Wang, **Y Hu**, et al. Structural characterization and hepatoprotective mechanism of alkali-soluble Poria cocos polysaccharides modified by dynamic high-pressure microfluidization.
-5. **Y Hu**, et al. Lactobacillus co-culture dynamics in response to different carbohydrates.
-6. **Y Hu**, M Moore, et al. Synergistic Effects of β (1-4) Galactooligosaccharides Combined with Rationally Designed Consortia on Preventing Clostridioides difficile Infection.
+1. MR Aljumaah, I Isawi, J Roach, **Y Hu**, *et al.* Gut Microbial Dipeptidyl Peptidase-4 and Associated Prolyl Tripeptidyl Peptidases: A Novel Classification and Response to Inhibitors. [preprint](https://www.researchsquare.com/article/rs-7312416/v1)
+2. **Y Hu**, Arnold, J., *et al.* Mechanisms of Galectin-1 Induction by Galactooligosaccharides.  
+3. **Y Hu**, MR Aljumaah, J Roach, *et al*. Spatial ecology of the multi-kingdom human intestinal microbiome. [preprint](https://doi.org/10.21203/rs.3.rs-9927529/v1)
+4. BR Wang, **Y Hu**, *et al.* Structural characterization and hepatoprotective mechanism of alkali-soluble Poria cocos polysaccharides modified by dynamic high-pressure microfluidization.
+5. **Y Hu**, *et al.* *Lactobacillus* co-culture dynamics in response to different carbohydrates.
+6. **Y Hu**, M Moore, *et al.* Synergistic Effects of β (1-4) Galactooligosaccharides Combined with Rationally Designed Consortia on Preventing *Clostridioides difficile* Infection.
 
 ---
 
@@ -112,10 +112,10 @@ Email: [yunan@ad.unc.edu](mailto:yunan@ad.unc.edu)
 | **Garrison Bruber** | Postbaccalaureate research | May 2026 - | UNC-Chapeil Hill|
 | **Inhwan Choi** | BBSP | Nov 2025 - Feb 2026 | UNC-Chapel Hill|
 | **Angela Molina** | Nutrition | August 2025 - | UNC-Chapeil Hill|
-| **Jin Ho Kim** | Biology | May 2025– | UNC-Chapel Hill |
-| **Yoo Rim Lee** | Nutrition (Honors Thesis) | Mar 2025– | UNC-Chapel Hill |
+| **Jin Ho Kim** | Biology (Honors Thesis) | May 2025– | UNC-Chapel Hill |
+| **Yoo Rim Lee** | Nutrition (Honors Thesis) | Mar 2025– May 2026 | UNC-Chapel Hill |
 | **Weston Matthews** | Biology | Aug 2024–May 2025 | Kernersville Eye Surgeons |
-| **Nehal Devpura** | Nutrition (Honors Thesis) | Feb 2023– | UNC-Chapel Hill |
+| **Nehal Devpura** | Nutrition (Honors Thesis) | Feb 2023– May 2026 | University of Arizona |
 | **Rebecca Zasloff** | Biology (Honors Thesis) | Aug 2021–Jun 2022 | Duke & Harvard School of Public Health |
 
 ---
