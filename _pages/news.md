@@ -58,6 +58,24 @@ author_profile: true
 
 # Recent News
 <div class="news-card">
+  <div class="news-title">🎓 Accepted into the UNC Bioinformatics and Computational Biology (BCB) Certificate Program</div>
+  <div class="news-date">August 2026</div>
+
+  <p>
+    I am excited to share that I have been accepted into the
+    <a href="https://bcb.unc.edu/degree-requirements/required-courses/" target="_blank">
+      Bioinformatics and Computational Biology (BCB) Certificate Program
+    </a>
+    at the University of North Carolina at Chapel Hill, effective Summer 2026.
+  </p>
+
+
+  <p>
+    The BCB Certificate Program provides interdisciplinary training at the intersection of biology, bioinformatics, computational biology, and data science. Through this program, I look forward to strengthening my computational and quantitative skills and applying them to my research in microbiology and the human gut microbiome.
+  </p>
+</div>
+
+<div class="news-card">
   <div class="news-title">📄 New manuscript submitted to <i>Nature Communications</i> — Preprint now available</div>
   <div class="news-date">July 2026</div>
 
