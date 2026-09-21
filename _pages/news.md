@@ -76,7 +76,7 @@ author_profile: true
 </div>
 
 <div class="news-card">
-  <div class="news-title">Continuing on the American Society for Nutrition (ASN) Nutritional Microbiology GEM Leadership Group</div>
+  <div class="news-title">🌱 Continuing on the American Society for Nutrition (ASN) Nutritional Microbiology GEM Leadership Group</div>
   <div class="news-date">September 2026</div>
 
   <p>
