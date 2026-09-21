@@ -141,7 +141,7 @@ author_profile: true
 
   Yunan gave a talk at the UNC Microbiology and Immunology Department Student Seminar about  
   <em>“Synbiotic effect on C. difficile infection via Galactooligosaccharides (GOS) combined with a rationally-designed consortium.”</em>
-  This presentation talked about how we generated a rationally design microbial consortium, and how does prebiotic GOS enhances the persistence of administered RDC strains in vivo and conferred robust protection against C. difficile.
+  This presentation talked about how we generated a rationally design microbial consortium, and how does prebiotic GOS enhances the persistence of administered RDC strains in vivo and conferred robust protection against <em>C. difficile</em>.
 
 
 </div>
