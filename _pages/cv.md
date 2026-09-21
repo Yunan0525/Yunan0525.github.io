@@ -16,8 +16,9 @@ Email: [yunan@ad.unc.edu](mailto:yunan@ad.unc.edu)
 
 ## **1. Personal Information**
 - **Name:** Yunan Hu, M.S.  
-- **Email:** yunan@ad.unc.edu  
-- **ORCID** [ORCID](https://orcid.org/0000-0002-1984-7098) 
+- **Email:** yunan@ad.unc.edu
+- **ORCID** [ORCID](https://orcid.org/0000-0002-1984-7098)
+  
 ---
 
 ## **2. Education**
@@ -134,9 +135,10 @@ Email: [yunan@ad.unc.edu](mailto:yunan@ad.unc.edu)
 - **2024–Present** — American Society for Nutrition (ASN)  
 - **2024–Present** — North Carolina branch of American Society for Microbiology (NC-ASM) 
 - **2024–Present** — American Society for Microbiology (ASM)
-- 
+
 ### **Awards**
 - **2022** — Travel award for International scientific association for probiotics and prebiotics annual conference, Denver
 - **2026** — Travel award for International scientific association for probiotics and prebiotics annual conference, Japan
+
 ---
 
