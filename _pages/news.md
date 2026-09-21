@@ -58,6 +58,24 @@ author_profile: true
 
 # Recent News
 <div class="news-card">
+  <div class="news-title">🦠 Serving as Co-Chair of the 2027 Lactic Acid Bacteria GRS</div>
+  <div class="news-date">September 2026</div>
+
+  <p>
+    I am excited to serve as a <strong>Co-Chair of the 2027 Lactic Acid Bacteria GRS</strong>,
+    taking place in Ventura, California, prior to the GRC in July 2027.
+  </p>
+
+  <p>
+    The GRS will feature four sessions spanning microbiome and microbial ecology
+    to therapeutics and applications.
+    <a href="https://www.grc.org/lactic-acid-bacteria-biology-symbioses-and-applications-grs-conference/2027/" target="_blank">
+      Applications are now open!
+    </a>
+  </p>
+</div>
+
+<div class="news-card">
   <div class="news-title">🎓 Accepted into the UNC Bioinformatics and Computational Biology (BCB) Certificate Program</div>
   <div class="news-date">August 2026</div>
 
