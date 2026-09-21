@@ -80,11 +80,11 @@ author_profile: true
   <div class="news-date">September 2026</div>
 
   <p>
-    After serving in a <strong>student advisory role</strong> on the ASN Nutritional Microbiology GEM Leadership Group in 2025–2026, I am excited to continue serving for the <strong>2026–2027 term</strong>.
+    After serving in a <strong>student advisory role</strong> on the ASN Nutritional Microbiology GEM Leadership Group in 2025–2026, I am excited to continue serving for the 2026–2027 term.
   </p>
 
   <p>
-    Looking ahead, I will contribute to programming for <strong>NUTRITION 2027, the annual meeting of the American Society for Nutrition (ASN)</strong>.
+    Looking ahead, I will contribute to programming for NUTRITION 2027, the annual meeting of the American Society for Nutrition (ASN).
   </p>
 </div>
 
