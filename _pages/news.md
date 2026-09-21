@@ -76,11 +76,11 @@ author_profile: true
 </div>
 
 <div class="news-card">
-  <div class="news-title">🌱 Continuing on the American Society for Nutrition (ASN) Nutritional Microbiology GEM Leadership Group</div>
+  <div class="news-title">Continuing on the American Society for Nutrition (ASN) Nutritional Microbiology GEM Leadership Group</div>
   <div class="news-date">September 2026</div>
 
   <p>
-    After serving in a <strong>student advisory role</strong> on the ASN Nutritional Microbiology GEM Leadership Group in 2025–2026, I am excited to continue serving for the 2026–2027 term.
+    After serving in a student advisory role on the ASN Nutritional Microbiology GEM Leadership Group in 2025-2026, I am excited to continue serving for the 2026-2027 term.
   </p>
 
   <p>
