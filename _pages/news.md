@@ -58,6 +58,19 @@ author_profile: true
 
 # Recent News
 <div class="news-card">
+  <div class="news-title">🎤 Presenting at The Nutrition Society Publishing Forum</div>
+  <div class="news-date">October 29, 2026</div>
+
+  <p>
+    I was delighted to present my research, <strong>"Nutrient-Driven Microbial Interactions as a Foundation for Microbiome-Based Therapeutics,"</strong> at The Nutrition Society Publishing Forum, organized in collaboration with Cambridge University Press at UNC-Chapel Hill.
+  </p>
+
+  <p>
+    My presentation highlighted how nutrient availability shapes microbial interactions and how these ecological principles can guide the development of more effective microbiome-based therapeutics. It was a wonderful opportunity to share my research and engage with researchers, editors, and publishing experts.
+  </p>
+</div>
+
+<div class="news-card">
   <div class="news-title">🦠 Serving as Co-Chair of the 2027 Lactic Acid Bacteria GRS</div>
   <div class="news-date">September 2026</div>
 
