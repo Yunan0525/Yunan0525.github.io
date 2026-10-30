@@ -72,35 +72,36 @@ Email: [yunan@ad.unc.edu](mailto:yunan@ad.unc.edu)
 1. **International Scientific Association for Probiotics and Prebiotics (ISAPP), 2026 (Poster).**  
    *Pure β(1-4) Galacto-oligosaccharides Enable the Persistence of a Rationally Designed Consortium in the Intestinal Tract*  
    **Yunan Hu**, Madison Moore, Jeff Roach, Jeena James, Jason W. Arnold, Rita Tamayo, José M. Bruno-Bárcena, Andrea Azcarate-Peril
-2. **CGIBD Research Competition, 2025 (Oral).**
+
+3. **CGIBD Research Competition, 2025 (Oral).**
    *Pure beta(1-4) Galactooligosaccharides enable the persistence of a rationally designed consortium in the intestinal tract.*  
    **Yunan Hu**
    
-3. **Gordon Research Conference (GRC), 2025 (Oral + Poster).**  
+4. **Gordon Research Conference (GRC), 2025 (Oral + Poster).**  
    *Pure prebiotics enable the persistence of probiotics and enhance their beneficial effects.*  
    **Yunan Hu**, Madison Moore, Jeff Roach, Jeena James, Jason Arnold, Rita Tamayo, José M. Bruno-Bárcena, M. Andrea Azcarate-Peril.
 
-4. **North Carolina Branch of the American Society for Microbiology (NC-ASM), 2024 (Oral).**  
+5. **North Carolina Branch of the American Society for Microbiology (NC-ASM), 2024 (Oral).**  
    *Galacto-oligosaccharides Enhance Intestinal Barrier Function.*  
    **Yunan Hu**
 
-5. **American Society for Nutrition (ASN), 2024 (Poster).**  
+6. **American Society for Nutrition (ASN), 2024 (Poster).**  
    *The Beneficial Effects of a Combination of Prebiotics and Bacterial Consortium on Clostridioides difficile Infection in a Mouse Model. 2024, Current Developments in Nutrition.*  
    Jeena M James, **Yunan Hu**, Mashael Aljumaah, Esmat Rousta, Nivedita Pareek, Jeff Roach, Jason Arnold, Rita Tamayo, José Bruno-Bárcena, Andrea Azcarate-Peril.
 
-6. **American Society for Nutrition (ASN), 2023 (Poster).**  
+7. **American Society for Nutrition (ASN), 2023 (Poster).**  
    *Immunomodulatory Effects of Galactooligosaccharides.*  
    **Yunan Hu**, Jason Arnold, Johanna Smeekens, Michael Kulis, Ellyce San Pedro, Scott Magness, Andrea Azcarate-Peril
 
-7. **International Scientific Association for Probiotics and Prebiotics (ISAPP), 2023 (Poster).**  
+8. **International Scientific Association for Probiotics and Prebiotics (ISAPP), 2023 (Poster).**  
    *Immunomodulatory Effect of Galacto-oligosaccharide on Lgals-1 Expression.*  
    **Yunan Hu**, Arnold J., Johanna Smeekens, Michael Kulis, Ellyce San Pedro, Scott Magness, Andrea Azcarate-Peril
 
-8. **NC Microbiome Consortium Symposium, 2023 (Poster).**  
+9. **NC Microbiome Consortium Symposium, 2023 (Poster).**  
    *GOS enhances intestinal barrier function.*  
    **Yunan Hu**, Jason W. Arnold, Rebecca Zasloff, Anika Rueppell, Scott T. Magness, José M. Bruno-Bárcena, M. Andrea Azcarate-Peril
 
-9. **NORC Student Research Symposium, 2022 (Poster).**  
+10. **NORC Student Research Symposium, 2022 (Poster).**  
    *Mechanism of Galectin-1 induction by Galactooligosaccharides.*  
    **Yunan Hu**, Jason Arnold, Johanna Smeekens, Michael Kulis, Ellyce San Pedro, Scott Magness, Andrea Azcarate-Peril
 
