@@ -58,11 +58,11 @@ author_profile: true
 
 # Recent News
 <div class="news-card">
-  <div class="news-title">🎤 Presenting at The Nutrition Society Publishing Forum</div>
+  <div class="news-title">🎤 Presented at The Nutrition Society Publishing Forum</div>
   <div class="news-date">October 29, 2026</div>
 
   <p>
-    I was delighted to present my research, <strong>"Nutrient-Driven Microbial Interactions as a Foundation for Microbiome-Based Therapeutics,"</strong> at The Nutrition Society Publishing Forum, organized in collaboration with Cambridge University Press at UNC-Chapel Hill.
+    I was delighted to present my research, "Nutrient-Driven Microbial Interactions as a Foundation for Microbiome-Based Therapeutics," at The Nutrition Society Publishing Forum, organized in collaboration with Cambridge University Press at UNC-Chapel Hill.
   </p>
 
   <p>
